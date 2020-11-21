@@ -16,4 +16,3 @@ json5==0.9.5
 pandas
 scipy
 gunicorn==20.0.4
-python-3.8.3
